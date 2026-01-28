@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E. in 环境工程, 沈阳建筑大学, 2014
+* B.E. in 市政工程, 沈阳建筑大学, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.12: HW - Recruiter
+  * High-end Recruitment 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017.2 - 2023.12: ELP Consult - Senior Consultant
+  * BD and delivery for Internet Tech Giant
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* 2014.11- 2017.2: Intuition IT Solutions - Consultant
+  * Talent Sourcer
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 招聘
+  * 领英
+  * 脉脉
+  * 技术社区
+* Vibe Coding
 
 Publications
 ======
